@@ -40,6 +40,14 @@ It was built to solve a real problem: the Basecamp Rewards loyalty program had 1
 
 ---
 
+## Live Demo
+
+**https://quiz-project-drab-gamma.vercel.app**
+
+Deployed on Vercel — works on any device.
+
+---
+
 ## Running Locally
 
 ```bash
